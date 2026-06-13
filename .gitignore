@@ -1,0 +1,13 @@
+skills/
+bundles/
+templates/
+playbooks/
+repo_temp/
+final_analysis.json
+comprehensive_analysis.py
+populate_repo.py
+analyze_skills.py
+generate_lean_repo.py
+analyzed_skills.json
+migration_report.json
+repo_temp/
