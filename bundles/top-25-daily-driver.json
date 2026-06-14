@@ -1,0 +1,156 @@
+{
+  "name": "Top 25 Daily Driver",
+  "description": "The 25 skills most likely to be used weekly by a technical founder.",
+  "skills": [
+    {
+      "path": "skills/founder-os/brainstorming",
+      "reason": "Essential for rapid ideation and problem-solving in early stages.",
+      "frequency": "Daily",
+      "use_case": "New feature ideation or pivoting strategy."
+    },
+    {
+      "path": "skills/ai-agents/ai-agent-development",
+      "reason": "Core skill for building the primary product type.",
+      "frequency": "Daily",
+      "use_case": "Defining new agent behaviors."
+    },
+    {
+      "path": "skills/ai-agents/ai-engineer",
+      "reason": "Essential for autonomous coding and development productivity.",
+      "frequency": "Daily",
+      "use_case": "Using AI to write and refactor code."
+    },
+    {
+      "path": "skills/ai-agents/context-manager",
+      "reason": "Crucial for maintaining high-quality AI interactions in long sessions.",
+      "frequency": "Daily",
+      "use_case": "Optimizing token usage and accuracy."
+    },
+    {
+      "path": "skills/backend/api-endpoint-builder",
+      "reason": "Required for almost every SaaS or automation project.",
+      "frequency": "Daily",
+      "use_case": "Building new backend functionality."
+    },
+    {
+      "path": "skills/founder-os/micro-saas-launcher",
+      "reason": "Guides the rapid iteration from idea to MVP.",
+      "frequency": "Weekly",
+      "use_case": "Structuring a new product launch."
+    },
+    {
+      "path": "skills/ai-agents/agent-memory-mcp",
+      "reason": "Key for advanced agents that need to remember state.",
+      "frequency": "Weekly",
+      "use_case": "Implementing RAG or long-term memory."
+    },
+    {
+      "path": "skills/ai-agents/agent-tool-builder",
+      "reason": "Agents need tools to interact with the world.",
+      "frequency": "Weekly",
+      "use_case": "Giving an agent access to a new API."
+    },
+    {
+      "path": "skills/automation/browser-automation",
+      "reason": "Essential for scraping and automated testing.",
+      "frequency": "Weekly",
+      "use_case": "Automating data collection or E2E tests."
+    },
+    {
+      "path": "skills/backend/clerk-auth",
+      "reason": "Go-to auth for rapid SaaS development.",
+      "frequency": "Monthly",
+      "use_case": "Setting up user management for a new MVP."
+    },
+    {
+      "path": "skills/security/production-code-audit",
+      "reason": "Critical for security before any public launch.",
+      "frequency": "Monthly",
+      "use_case": "Pre-launch security check."
+    },
+    {
+      "path": "skills/testing/code-review-excellence",
+      "reason": "Ensures code quality stays high as the project grows.",
+      "frequency": "Daily",
+      "use_case": "Reviewing PRs or own complex changes."
+    },
+    {
+      "path": "skills/deployment/appdeploy",
+      "reason": "Need to get the code live to users.",
+      "frequency": "Weekly",
+      "use_case": "Deploying updates to staging or production."
+    },
+    {
+      "path": "skills/architecture/software-architecture",
+      "reason": "Keeps the system maintainable and scalable.",
+      "frequency": "Weekly",
+      "use_case": "Designing a new module or service."
+    },
+    {
+      "path": "skills/ai-agents/agent-orchestrator",
+      "reason": "Necessary for multi-agent workflows.",
+      "frequency": "Weekly",
+      "use_case": "Coordinating complex agent tasks."
+    },
+    {
+      "path": "skills/automation/workflow-orchestration-patterns",
+      "reason": "Crucial for reliable WhatsApp and background automation.",
+      "frequency": "Weekly",
+      "use_case": "Designing complex automation logic."
+    },
+    {
+      "path": "skills/founder-os/kaizen",
+      "reason": "Drives continuous improvement of workflows.",
+      "frequency": "Weekly",
+      "use_case": "Refining development processes."
+    },
+    {
+      "path": "skills/security/api-security-best-practices",
+      "reason": "Ensures APIs are not vulnerable to basic attacks.",
+      "frequency": "Weekly",
+      "use_case": "Implementing new API endpoints."
+    },
+    {
+      "path": "skills/ai-agents/agent-evaluation",
+      "reason": "How you know your agent is actually getting better.",
+      "frequency": "Weekly",
+      "use_case": "Benchmarking agent performance."
+    },
+    {
+      "path": "skills/backend/postgresql",
+      "reason": "Primary data store for most projects.",
+      "frequency": "Daily",
+      "use_case": "Database schema design or optimization."
+    },
+    {
+      "path": "skills/ai-agents/context7-auto-research",
+      "reason": "Saves time by fetching latest docs automatically.",
+      "frequency": "Daily",
+      "use_case": "Learning a new library or API."
+    },
+    {
+      "path": "skills/founder-os/architecture-decision-records",
+      "reason": "Records the 'why' behind architectural choices.",
+      "frequency": "Weekly",
+      "use_case": "Documenting a major tech stack decision."
+    },
+    {
+      "path": "skills/ai-agents/crewai",
+      "reason": "Popular framework for multi-agent systems.",
+      "frequency": "Monthly",
+      "use_case": "Building a team of specialized agents."
+    },
+    {
+      "path": "skills/deployment/cloud-devops",
+      "reason": "Handles the infrastructure and scaling side.",
+      "frequency": "Weekly",
+      "use_case": "Configuring AWS/GCP resources."
+    },
+    {
+      "path": "skills/knowledge-systems/api-documentation",
+      "reason": "Good docs are essential for external integrations.",
+      "frequency": "Weekly",
+      "use_case": "Documenting a public API."
+    }
+  ]
+}
