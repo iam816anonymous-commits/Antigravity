@@ -1,11 +1,11 @@
 ---
-name: agent-tool-builder
+name: agent-tool-design
 description: "Tools are how AI agents interact with the world. A well-designed tool is the difference between an agent that works and one that hallucinates, fails silently, or costs 10x more tokens than necessary. This skill covers tool design from schema to error"
 risk: safe
 source: official
 date_added: "2026-06-14"
 ---
-# Agent Tool Builder
+# Agent Tool Design Principles
 
 ## Purpose
 Tools are how AI agents interact with the world. A well-designed tool is the difference between an agent that works and one that hallucinates, fails silently, or costs 10x more tokens than necessary. This skill covers tool design from schema to error handling.

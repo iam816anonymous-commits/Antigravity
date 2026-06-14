@@ -1,11 +1,11 @@
 ---
-name: agent-memory-mcp
+name: agent-memory-architecture
 description: "A comprehensive hybrid memory system for AI agents, providing persistent, searchable knowledge management. This skill covers the entire architecture of agent memory: short-term (context window), long-term (vector stores/RAG), and persistent cognitive"
 risk: safe
 source: official
 date_added: "2026-06-14"
 ---
-# Agent Memory Systems & MCP
+# Agent Memory Architecture
 
 ## Purpose
 A comprehensive hybrid memory system for AI agents, providing persistent, searchable knowledge management. This skill covers the entire architecture of agent memory: short-term (context window), long-term (vector stores/RAG), and persistent cognitive architectures (Architecture, Patterns, Decisions) that allow agents to remember context across sessions.
