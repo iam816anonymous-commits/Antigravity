@@ -11,13 +11,7 @@ date_added: "2026-06-14"
 Comprehensive AWS security posture assessment using AWS CLI and security best practices
 
 ## When to Use
-Use for aws-security-audit
+Use when aws-security-audit is required.
 
 ## Expected Output
-Result for aws-security-audit
-
-## Dependencies
-None
-
-## Related Skills
-None
+Task completed successfully.

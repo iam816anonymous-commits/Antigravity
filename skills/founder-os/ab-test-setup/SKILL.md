@@ -5,19 +5,13 @@ risk: safe
 source: official
 date_added: "2026-06-14"
 ---
-# A/B Test Setup
+# ab-test-setup
 
 ## Purpose
 Structured guide for setting up A/B tests with mandatory gates for hypothesis, metrics, and execution readiness.
 
 ## When to Use
-This skill is applicable to execute the workflow or actions described in the overview.
+Use when ab-test-setup is required.
 
 ## Expected Output
 Task completed successfully.
-
-## Dependencies
-None
-
-## Related Skills
-None

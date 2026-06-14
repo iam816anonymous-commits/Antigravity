@@ -5,19 +5,13 @@ risk: safe
 source: official
 date_added: "2026-06-14"
 ---
-# Context-Driven Development
+# context-driven-development
 
 ## Purpose
 Guide for implementing and maintaining context as a managed artifact alongside code, enabling consistent AI interactions and team alignment through structured project documentation.
 
 ## When to Use
-Use when the task requires this skill.
+Use when context-driven-development is required.
 
 ## Expected Output
 Task completed successfully.
-
-## Dependencies
-None
-
-## Related Skills
-None

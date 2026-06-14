@@ -1,19 +1,17 @@
 ---
 name: pricing-strategy
-description: "Develop value-based pricing models that align with customer willingness to pay and business goals."
+description: "Capability for pricing-strategy"
 risk: safe
 source: official
 date_added: "2026-06-14"
 ---
-# Pricing Strategy Framework
+# pricing-strategy
 
 ## Purpose
-Develop value-based pricing models that align with customer willingness to pay and business goals.
+Capability for pricing-strategy
 
 ## When to Use
-- Launching a new product or feature.
-- Optimizing revenue for an existing SaaS.
-- Moving from beta to paid tiers.
+Use when pricing-strategy is required.
 
 ## Expected Output
-Defined pricing tiers and rationale based on market and value data.
+Task completed successfully.

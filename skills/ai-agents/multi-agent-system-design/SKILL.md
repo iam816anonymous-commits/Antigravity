@@ -1,19 +1,17 @@
 ---
 name: multi-agent-system-design
-description: "Architect teams of specialized AI agents that collaborate to solve complex, multi-step problems."
+description: "Capability for multi-agent-system-design"
 risk: safe
 source: official
 date_added: "2026-06-14"
 ---
-# Multi-Agent System Design
+# multi-agent-system-design
 
 ## Purpose
-Architect teams of specialized AI agents that collaborate to solve complex, multi-step problems.
+Capability for multi-agent-system-design
 
 ## When to Use
-- Designing systems where a single agent is insufficient.
-- Implementing inter-agent communication and task delegation.
-- Scaling autonomous workflows.
+Use when multi-agent-system-design is required.
 
 ## Expected Output
-Multi-agent architecture design with clear roles and communication protocols.
+Task completed successfully.

@@ -5,19 +5,13 @@ risk: safe
 source: official
 date_added: "2026-06-14"
 ---
-# AI Product Development
+# ai-product
 
 ## Purpose
 Every product will be AI-powered. The question is whether you'll build it right or ship a demo that falls apart in production.
 
 ## When to Use
-Use this skill when the request clearly matches the capabilities and patterns described above.
+Use when ai-product is required.
 
 ## Expected Output
 Task completed successfully.
-
-## Dependencies
-None
-
-## Related Skills
-None

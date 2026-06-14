@@ -11,13 +11,7 @@ date_added: "2026-06-14"
 Development skill from everything-claude-code
 
 ## When to Use
-This skill is applicable to execute the workflow or actions described in the overview.
+Use when cc-skill-strategic-compact is required.
 
 ## Expected Output
 Task completed successfully.
-
-## Dependencies
-None
-
-## Related Skills
-None

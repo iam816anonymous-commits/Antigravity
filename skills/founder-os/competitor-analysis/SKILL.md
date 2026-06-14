@@ -1,19 +1,17 @@
 ---
 name: competitor-analysis
-description: "Analyze direct and indirect competitors to identify market gaps, strengths, and weaknesses."
+description: "Capability for competitor-analysis"
 risk: safe
 source: official
 date_added: "2026-06-14"
 ---
-# Competitor Analysis
+# competitor-analysis
 
 ## Purpose
-Analyze direct and indirect competitors to identify market gaps, strengths, and weaknesses.
+Capability for competitor-analysis
 
 ## When to Use
-- Developing a unique value proposition.
-- Planning market entry.
-- Benchmarking product features.
+Use when competitor-analysis is required.
 
 ## Expected Output
-Competitive landscape matrix and identified strategic advantages.
+Task completed successfully.

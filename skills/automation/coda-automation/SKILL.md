@@ -5,19 +5,13 @@ risk: safe
 source: official
 date_added: "2026-06-14"
 ---
-# Coda Automation via Rube MCP
+# coda-automation
 
 ## Purpose
 Automate Coda tasks via Rube MCP (Composio): manage docs, pages, tables, rows, formulas, permissions, and publishing. Always search tools first for current schemas.
 
 ## When to Use
-This skill is applicable to execute the workflow or actions described in the overview.
+Use when coda-automation is required.
 
 ## Expected Output
 Task completed successfully.
-
-## Dependencies
-None
-
-## Related Skills
-None

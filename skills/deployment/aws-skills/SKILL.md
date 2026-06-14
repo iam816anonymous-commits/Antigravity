@@ -5,21 +5,13 @@ risk: safe
 source: official
 date_added: "2026-06-14"
 ---
-# Aws Skills
+# aws-skills
 
 ## Purpose
 AWS development with infrastructure automation and cloud architecture patterns
 
 ## When to Use
-This Skill
-
-Use this skill when you need to work with aws development with infrastructure automation and cloud architecture patterns.
+Use when aws-skills is required.
 
 ## Expected Output
 Task completed successfully.
-
-## Dependencies
-None
-
-## Related Skills
-None

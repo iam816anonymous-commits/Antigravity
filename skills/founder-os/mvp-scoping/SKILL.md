@@ -1,19 +1,17 @@
 ---
 name: mvp-scoping
-description: "Defining the absolute minimum set of features required to validate a product hypothesis and deliver value."
+description: "Capability for mvp-scoping"
 risk: safe
 source: official
 date_added: "2026-06-14"
 ---
-# MVP Scoping & Prioritization
+# mvp-scoping
 
 ## Purpose
-Defining the absolute minimum set of features required to validate a product hypothesis and deliver value.
+Capability for mvp-scoping
 
 ## When to Use
-- Planning the first version of a new product.
-- Dealing with "feature creep".
-- Ensuring speed to market.
+Use when mvp-scoping is required.
 
 ## Expected Output
-A prioritized feature list with a clear "cut line" for the MVP.
+Task completed successfully.

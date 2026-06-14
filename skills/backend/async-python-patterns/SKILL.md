@@ -5,19 +5,13 @@ risk: safe
 source: official
 date_added: "2026-06-14"
 ---
-# Async Python Patterns
+# async-python-patterns
 
 ## Purpose
 Comprehensive guidance for implementing asynchronous Python applications using asyncio, concurrent programming patterns, and async/await for building high-performance, non-blocking systems.
 
 ## When to Use
-Use when the task requires this skill.
+Use when async-python-patterns is required.
 
 ## Expected Output
 Task completed successfully.
-
-## Dependencies
-None
-
-## Related Skills
-None

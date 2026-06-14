@@ -1,19 +1,17 @@
 ---
 name: first-principles-analysis
-description: "Deconstruct complex problems into their fundamental truths and build up solutions from scratch, avoiding reasoning by analogy."
+description: "Capability for first-principles-analysis"
 risk: safe
 source: official
 date_added: "2026-06-14"
 ---
-# First Principles Analysis
+# first-principles-analysis
 
 ## Purpose
-Deconstruct complex problems into their fundamental truths and build up solutions from scratch, avoiding reasoning by analogy.
+Capability for first-principles-analysis
 
 ## When to Use
-- Evaluating new business models or product features.
-- Solving deep technical bottlenecks that conventional wisdom hasn't fixed.
-- Challenging industry assumptions or 'best practices'.
+Use when first-principles-analysis is required.
 
 ## Expected Output
-A set of fundamental truths and a derived solution path.
+Task completed successfully.

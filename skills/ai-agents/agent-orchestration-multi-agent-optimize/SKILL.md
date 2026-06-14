@@ -5,19 +5,13 @@ risk: safe
 source: official
 date_added: "2026-06-14"
 ---
-# Multi-Agent Optimization Toolkit
+# agent-orchestration-multi-agent-optimize
 
 ## Purpose
 Optimize multi-agent systems with coordinated profiling, workload distribution, and cost-aware orchestration. Use when improving agent performance, throughput, or reliability.
 
 ## When to Use
-Use when the task requires this skill.
+Use when agent-orchestration-multi-agent-optimize is required.
 
 ## Expected Output
 Task completed successfully.
-
-## Dependencies
-None
-
-## Related Skills
-None

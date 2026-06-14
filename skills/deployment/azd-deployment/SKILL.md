@@ -5,19 +5,13 @@ risk: safe
 source: official
 date_added: "2026-06-14"
 ---
-# Azure Developer CLI (azd) Container Apps Deployment
+# azd-deployment
 
 ## Purpose
 Deploy containerized frontend + backend applications to Azure Container Apps with remote builds, managed identity, and idempotent infrastructure.
 
 ## When to Use
-This skill is applicable to execute the workflow or actions described in the overview.
+Use when azd-deployment is required.
 
 ## Expected Output
 Task completed successfully.
-
-## Dependencies
-None
-
-## Related Skills
-None

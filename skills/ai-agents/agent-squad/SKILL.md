@@ -5,19 +5,13 @@ risk: safe
 source: official
 date_added: "2026-06-14"
 ---
-# Main Agent — The Orchestrator
+# agent-squad
 
 ## Purpose
 Main agent orchestrator that coordinates a specialized squad of agents
 
 ## When to Use
-Use when the task requires this skill.
+Use when agent-squad is required.
 
 ## Expected Output
 Task completed successfully.
-
-## Dependencies
-None
-
-## Related Skills
-None

@@ -5,19 +5,13 @@ risk: safe
 source: official
 date_added: "2026-06-14"
 ---
-# Calendly Automation via Rube MCP
+# calendly-automation
 
 ## Purpose
 Automate Calendly scheduling, event management, invitee tracking, availability checks, and organization administration via Rube MCP (Composio). Always search tools first for current schemas.
 
 ## When to Use
-This skill is applicable to execute the workflow or actions described in the overview.
+Use when calendly-automation is required.
 
 ## Expected Output
 Task completed successfully.
-
-## Dependencies
-None
-
-## Related Skills
-None

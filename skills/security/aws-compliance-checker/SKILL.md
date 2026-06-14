@@ -11,13 +11,7 @@ date_added: "2026-06-14"
 Automated compliance checking against CIS, PCI-DSS, HIPAA, and SOC 2 benchmarks
 
 ## When to Use
-Use for aws-compliance-checker
+Use when aws-compliance-checker is required.
 
 ## Expected Output
-Result for aws-compliance-checker
-
-## Dependencies
-None
-
-## Related Skills
-None
+Task completed successfully.

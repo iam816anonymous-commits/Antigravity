@@ -5,19 +5,13 @@ risk: safe
 source: official
 date_added: "2026-06-14"
 ---
-# Backend Development Patterns
+# cc-skill-backend-patterns
 
 ## Purpose
 Backend architecture patterns, API design, database optimization, and server-side best practices for Node.js, Express, and Next.js API routes.
 
 ## When to Use
-This skill is applicable to execute the workflow or actions described in the overview.
+Use when cc-skill-backend-patterns is required.
 
 ## Expected Output
 Task completed successfully.
-
-## Dependencies
-None
-
-## Related Skills
-None

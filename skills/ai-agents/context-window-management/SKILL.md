@@ -5,24 +5,13 @@ risk: safe
 source: official
 date_added: "2026-06-14"
 ---
-# Context Window Management
+# context-window-management
 
 ## Purpose
 Strategies for managing LLM context windows including summarization, trimming, routing, and avoiding context rot
 
 ## When to Use
-- User mentions or implies: context window
-- User mentions or implies: token limit
-- User mentions or implies: context management
-- User mentions or implies: context engineering
-- User mentions or implies: long context
-- User mentions or implies: context overflow
+Use when context-window-management is required.
 
 ## Expected Output
 Task completed successfully.
-
-## Dependencies
-None
-
-## Related Skills
-None

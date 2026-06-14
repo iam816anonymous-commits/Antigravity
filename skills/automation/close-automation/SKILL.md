@@ -5,19 +5,13 @@ risk: safe
 source: official
 date_added: "2026-06-14"
 ---
-# Close CRM Automation via Rube MCP
+# close-automation
 
 ## Purpose
 Automate Close CRM tasks via Rube MCP (Composio): create leads, manage calls/SMS, handle tasks, and track notes. Always search tools first for current schemas.
 
 ## When to Use
-This skill is applicable to execute the workflow or actions described in the overview.
+Use when close-automation is required.
 
 ## Expected Output
 Task completed successfully.
-
-## Dependencies
-None
-
-## Related Skills
-None

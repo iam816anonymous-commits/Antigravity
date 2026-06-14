@@ -5,19 +5,13 @@ risk: safe
 source: official
 date_added: "2026-06-14"
 ---
-# Cal.com Automation via Rube MCP
+# cal-com-automation
 
 ## Purpose
 Automate Cal.com tasks via Rube MCP (Composio): manage bookings, check availability, configure webhooks, and handle teams. Always search tools first for current schemas.
 
 ## When to Use
-This skill is applicable to execute the workflow or actions described in the overview.
+Use when cal-com-automation is required.
 
 ## Expected Output
 Task completed successfully.
-
-## Dependencies
-None
-
-## Related Skills
-None

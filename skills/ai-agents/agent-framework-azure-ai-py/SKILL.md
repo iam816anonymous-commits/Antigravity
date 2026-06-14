@@ -5,19 +5,13 @@ risk: safe
 source: official
 date_added: "2026-06-14"
 ---
-# Agent Framework Azure Hosted Agents
+# agent-framework-azure-ai-py
 
 ## Purpose
 Build persistent agents on Azure AI Foundry using the Microsoft Agent Framework Python SDK.
 
 ## When to Use
-This skill is applicable to execute the workflow or actions described in the overview.
+Use when agent-framework-azure-ai-py is required.
 
 ## Expected Output
 Task completed successfully.
-
-## Dependencies
-None
-
-## Related Skills
-None

@@ -1,156 +1,156 @@
 {
-  "name": "Top 25 Timeless Daily Driver",
-  "description": "25 durable, capability-oriented skills for a technical founder, optimized for longevity and stack-independence.",
+  "name": "Top 25 Daily Driver",
+  "description": "The 25 skills most likely to be used weekly by a technical founder.",
   "skills": [
     {
       "path": "skills/founder-os/brainstorming",
-      "reason": "Universal ideation framework.",
+      "reason": "Essential for rapid ideation and problem-solving in early stages.",
       "frequency": "Daily",
-      "use_case": "Product and feature discovery."
-    },
-    {
-      "path": "skills/founder-os/first-principles-analysis",
-      "reason": "Timeless reasoning framework for solving hard problems.",
-      "frequency": "Daily",
-      "use_case": "Challenging assumptions in tech or business."
+      "use_case": "New feature ideation or pivoting strategy."
     },
     {
       "path": "skills/ai-agents/ai-agent-development",
-      "reason": "Core principles of agentic behavior design.",
+      "reason": "Core skill for building the primary product type.",
       "frequency": "Daily",
-      "use_case": "Designing autonomous systems."
+      "use_case": "Defining new agent behaviors."
     },
     {
       "path": "skills/ai-agents/ai-engineer",
-      "reason": "AI-assisted engineering workflow principles.",
+      "reason": "Essential for autonomous coding and development productivity.",
       "frequency": "Daily",
-      "use_case": "Maximizing development velocity."
+      "use_case": "Using AI to write and refactor code."
     },
     {
       "path": "skills/ai-agents/context-manager",
-      "reason": "Principles of attention and context in LLMs.",
+      "reason": "Crucial for maintaining high-quality AI interactions in long sessions.",
       "frequency": "Daily",
-      "use_case": "Optimizing agent session quality."
+      "use_case": "Optimizing token usage and accuracy."
     },
     {
-      "path": "skills/backend/api-design-principles",
-      "reason": "Durable principles for building interfaces.",
+      "path": "skills/backend/api-endpoint-builder",
+      "reason": "Required for almost every SaaS or automation project.",
       "frequency": "Daily",
-      "use_case": "Architecting modular systems."
+      "use_case": "Building new backend functionality."
     },
     {
-      "path": "skills/backend/database-design-patterns",
-      "reason": "Relational and non-relational storage principles (vendor-agnostic).",
-      "frequency": "Daily",
-      "use_case": "Designing robust data schemas."
-    },
-    {
-      "path": "skills/ai-agents/agent-memory-architecture",
-      "reason": "Structural patterns for short/long-term agent memory.",
+      "path": "skills/founder-os/micro-saas-launcher",
+      "reason": "Guides the rapid iteration from idea to MVP.",
       "frequency": "Weekly",
-      "use_case": "Implementing persistent state."
+      "use_case": "Structuring a new product launch."
     },
     {
-      "path": "skills/ai-agents/agent-tool-design",
-      "reason": "Interface design for agent-environment interaction.",
+      "path": "skills/ai-agents/agent-memory-mcp",
+      "reason": "Key for advanced agents that need to remember state.",
       "frequency": "Weekly",
-      "use_case": "Expanding agent capabilities."
+      "use_case": "Implementing RAG or long-term memory."
     },
     {
-      "path": "skills/founder-os/market-validation",
-      "reason": "Durable framework for finding product-market fit.",
+      "path": "skills/ai-agents/agent-tool-builder",
+      "reason": "Agents need tools to interact with the world.",
       "frequency": "Weekly",
-      "use_case": "Verifying new product ideas."
+      "use_case": "Giving an agent access to a new API."
     },
     {
-      "path": "skills/founder-os/pricing-strategy",
-      "reason": "Value-based revenue modeling.",
+      "path": "skills/automation/browser-automation",
+      "reason": "Essential for scraping and automated testing.",
+      "frequency": "Weekly",
+      "use_case": "Automating data collection or E2E tests."
+    },
+    {
+      "path": "skills/backend/clerk-auth",
+      "reason": "Go-to auth for rapid SaaS development.",
       "frequency": "Monthly",
-      "use_case": "SaaS business model optimization."
+      "use_case": "Setting up user management for a new MVP."
     },
     {
       "path": "skills/security/production-code-audit",
-      "reason": "Principles of secure code review.",
+      "reason": "Critical for security before any public launch.",
       "frequency": "Monthly",
-      "use_case": "Pre-deployment safety check."
+      "use_case": "Pre-launch security check."
     },
     {
       "path": "skills/testing/code-review-excellence",
-      "reason": "Maintainability and quality assurance principles.",
+      "reason": "Ensures code quality stays high as the project grows.",
       "frequency": "Daily",
-      "use_case": "Ensuring codebase health."
+      "use_case": "Reviewing PRs or own complex changes."
     },
     {
-      "path": "skills/deployment/production-readiness-deployment",
-      "reason": "General operational standards for live software.",
+      "path": "skills/deployment/appdeploy",
+      "reason": "Need to get the code live to users.",
       "frequency": "Weekly",
-      "use_case": "Releasing and monitoring updates."
+      "use_case": "Deploying updates to staging or production."
     },
     {
       "path": "skills/architecture/software-architecture",
-      "reason": "Fundamental patterns for system organization.",
+      "reason": "Keeps the system maintainable and scalable.",
       "frequency": "Weekly",
-      "use_case": "High-level system design."
+      "use_case": "Designing a new module or service."
     },
     {
-      "path": "skills/ai-agents/multi-agent-system-design",
-      "reason": "Collaborative agent architecture principles.",
+      "path": "skills/ai-agents/agent-orchestrator",
+      "reason": "Necessary for multi-agent workflows.",
       "frequency": "Weekly",
-      "use_case": "Designing complex distributed reasoning."
+      "use_case": "Coordinating complex agent tasks."
     },
     {
       "path": "skills/automation/workflow-orchestration-patterns",
-      "reason": "Reliable automation logic (vendor-agnostic).",
+      "reason": "Crucial for reliable WhatsApp and background automation.",
       "frequency": "Weekly",
-      "use_case": "Building complex background tasks."
+      "use_case": "Designing complex automation logic."
     },
     {
       "path": "skills/founder-os/kaizen",
-      "reason": "Continuous improvement philosophy.",
+      "reason": "Drives continuous improvement of workflows.",
       "frequency": "Weekly",
-      "use_case": "Optimizing development lifecycle."
+      "use_case": "Refining development processes."
     },
     {
       "path": "skills/security/api-security-best-practices",
-      "reason": "Timeless patterns for securing public interfaces.",
+      "reason": "Ensures APIs are not vulnerable to basic attacks.",
       "frequency": "Weekly",
-      "use_case": "Protecting backend resources."
+      "use_case": "Implementing new API endpoints."
     },
     {
       "path": "skills/ai-agents/agent-evaluation",
-      "reason": "Scientific approach to benchmarking performance.",
+      "reason": "How you know your agent is actually getting better.",
       "frequency": "Weekly",
-      "use_case": "Measuring system improvement."
+      "use_case": "Benchmarking agent performance."
     },
     {
-      "path": "skills/founder-os/competitor-analysis",
-      "reason": "Strategic market mapping.",
-      "frequency": "Weekly",
-      "use_case": "Finding strategic advantages."
+      "path": "skills/backend/postgresql",
+      "reason": "Primary data store for most projects.",
+      "frequency": "Daily",
+      "use_case": "Database schema design or optimization."
+    },
+    {
+      "path": "skills/ai-agents/context7-auto-research",
+      "reason": "Saves time by fetching latest docs automatically.",
+      "frequency": "Daily",
+      "use_case": "Learning a new library or API."
     },
     {
       "path": "skills/founder-os/architecture-decision-records",
-      "reason": "Framework for capturing technical rationale.",
+      "reason": "Records the 'why' behind architectural choices.",
       "frequency": "Weekly",
-      "use_case": "Documenting design trade-offs."
+      "use_case": "Documenting a major tech stack decision."
     },
     {
-      "path": "skills/architecture/cloud-architect",
-      "reason": "Provider-agnostic cloud design patterns.",
+      "path": "skills/ai-agents/crewai",
+      "reason": "Popular framework for multi-agent systems.",
+      "frequency": "Monthly",
+      "use_case": "Building a team of specialized agents."
+    },
+    {
+      "path": "skills/deployment/cloud-devops",
+      "reason": "Handles the infrastructure and scaling side.",
       "frequency": "Weekly",
-      "use_case": "Designing for high availability."
+      "use_case": "Configuring AWS/GCP resources."
     },
     {
       "path": "skills/knowledge-systems/api-documentation",
-      "reason": "Principles of clear technical communication.",
+      "reason": "Good docs are essential for external integrations.",
       "frequency": "Weekly",
-      "use_case": "Improving developer experience."
-    },
-    {
-      "path": "skills/backend/auth-implementation-patterns",
-      "reason": "Core security patterns for identity and access.",
-      "frequency": "Monthly",
-      "use_case": "Setting up secure user systems."
+      "use_case": "Documenting a public API."
     }
   ]
 }
