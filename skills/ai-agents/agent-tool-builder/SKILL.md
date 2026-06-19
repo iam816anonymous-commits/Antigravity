@@ -1,0 +1,17 @@
+---
+name: agent-tool-builder
+description: "Tools are how AI agents interact with the world. A well-designed tool is the difference between an agent that works and one that hallucinates, fails silently, or costs 10x more tokens than necessary. This skill covers tool design from schema to error"
+risk: safe
+source: official
+date_added: "2026-06-14"
+---
+# agent-tool-builder
+
+## Purpose
+Tools are how AI agents interact with the world. A well-designed tool is the difference between an agent that works and one that hallucinates, fails silently, or costs 10x more tokens than necessary. This skill covers tool design from schema to error
+
+## When to Use
+Use when agent-tool-builder is required.
+
+## Expected Output
+Task completed successfully.

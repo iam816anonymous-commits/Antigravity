@@ -1,0 +1,17 @@
+---
+name: c4-context
+description: "Expert C4 Context-level documentation specialist. Creates high-level system context diagrams, documents personas, user journeys, system features, and external dependencies."
+risk: safe
+source: official
+date_added: "2026-06-14"
+---
+# c4-context
+
+## Purpose
+Expert C4 Context-level documentation specialist. Creates high-level system context diagrams, documents personas, user journeys, system features, and external dependencies.
+
+## When to Use
+Use when c4-context is required.
+
+## Expected Output
+Task completed successfully.
